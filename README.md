@@ -6,8 +6,9 @@
 ---
 
 ## Скрины моего ассистента
-![Скриншот1](https://github.com/AndreyRublev-kms/rieltor_assistent/blob/main/Скрин1.png?raw=true)
-
+![Описание 1]([URL_ИЗОБРАЖЕНИЯ_1](https://github.com/AndreyRublev-kms/rieltor_assistent/blob/main/Скрин1.png?raw=true)){: width="400" height="400" }
+![Описание 2](URL_ИЗОБРАЖЕНИЯ_2){: width="400" height="400" }
+![Описание 3](URL_ИЗОБРАЖЕНИЯ_3){: width="400" height="400" }
 
 
 ## 📌 О проекте
